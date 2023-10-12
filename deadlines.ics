@@ -1,0 +1,510 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+PRODID:-//Moodle Pty Ltd//NONSGML Moodle Version 2021051706.04//EN
+VERSION:2.0
+BEGIN:VEVENT
+UID:280804@moodle.astanait.edu.kz
+SUMMARY:Seminar_2 is due
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20230326T162334Z
+DTSTAMP:20230414T061220Z
+DTSTART:20230409T175900Z
+DTEND:20230409T175900Z
+CATEGORIES:Cultural Studies | Uyzbayeva Anar
+END:VEVENT
+BEGIN:VEVENT
+UID:285789@moodle.astanait.edu.kz
+SUMMARY:Assignment 1 is due
+DESCRIPTION:	*\nCreate a new Java project: Open IntelliJ IDEA and create a 
+	new Java project. You can name it whatever you like\, and select the approp
+	riate settings for your task.\n\n	*\nWrite your Java code: Write your Java 
+	code to solve the task. Make sure your code follows best practices for codi
+	ng style\, readability\, and efficiency.\n\n	*\nTest your code: Test your c
+	ode thoroughly to make sure it works as expected. Test it with different in
+	puts and edge cases to ensure it is robust.\n\n	*\nInitialize a new Git rep
+	ository: In IntelliJ IDEA\, select "VCS" from the menu and choose "Import i
+	nto Version Control" > "Create Git repository". This will initialize a new 
+	Git repository in your project folder.\n\n	*\nAdd your code to Git: Once yo
+	u have initialized your Git repository\, you can add your code to it. In In
+	telliJ IDEA\, select the files you want to add and choose "Add to Git".\n\n
+		*\nCommit your changes: Once you have added your code to Git\, you can com
+	mit your changes. In IntelliJ IDEA\, select the files you want to commit an
+	d choose "Commit". Enter a commit message describing the changes you've mad
+	e.\n\n	*\nPush your changes to GitHub: Once you've committed your changes\,
+	 you need to push them to GitHub. In IntelliJ IDEA\, select "VCS" from the 
+	menu and choose "Git" > "Push". Enter your GitHub credentials if prompted.\
+	n\nTASK EVALUATION:\nThe task at hand involves using GitHub\, committing mo
+	re than 10 times\, documenting code\, and a final defense. The evaluation f
+	or this task will be based on the following criteria:\n\n	*\nGITHUB USAGE (
+	10%): The usage of GitHub will be evaluated based on how well the user is a
+	ble to use GitHub for version control.\n\n	*\nCOMMITS (20%): The user will 
+	be evaluated based on the number of commits made to the project. A minimum 
+	of 10 commits is required to receive any points in this category. However\,
+	 the quality and relevance of the commits will also be evaluated. Commits s
+	hould be made at regular intervals and should reflect significant changes i
+	n the code.\n\n	*\nDOCUMENTING CODE (20%): The user will be evaluated on th
+	eir ability to document their code. Documentation should include comments i
+	n the code\, a README file\, and any other relevant documentation. The docu
+	mentation should be clear\, concise\, and easy to understand.\n\n	*\nDEFENS
+	E (50%): The final defense will be evaluated based on the user's ability to
+	 explain their code\, their design decisions\, and any challenges they face
+	d. The user should demonstrate a thorough understanding of the project and 
+	be able to answer questions from the evaluation committee. The user's abili
+	ty to defend their work will be a crucial factor in the final evaluation.\n
+	\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20230403T033833Z
+DTSTAMP:20230414T061220Z
+DTSTART:20230409T175900Z
+DTEND:20230409T175900Z
+CATEGORIES:Algorithms and Data Structures | Khaimuldin Nursultan
+END:VEVENT
+BEGIN:VEVENT
+UID:290396@moodle.astanait.edu.kz
+SUMMARY:Assignment 1. ERD and Normalization is due
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20230403T020105Z
+DTSTAMP:20230414T061220Z
+DTSTART:20230409T175900Z
+DTEND:20230409T175900Z
+CATEGORIES:Database Management Systems | Smagulova Gulnur
+END:VEVENT
+BEGIN:VEVENT
+UID:280406@moodle.astanait.edu.kz
+SUMMARY:Practice 3. Motivation is due
+DESCRIPTION:DEAR STUDENTS!\n\n1. You need to choose two of three topics.\n\
+	n2. Prepare a presentation of at least 5 slides\n\n3. To reflect in the pre
+	sentation the main questions.\n\n4. You will be given 5 minutes to defend t
+	he presentation during the practice session.\n\n5. Questions after the pres
+	entation will be asked on all topics of the practice session.\n\nPRACTICE S
+	ESSION TOPICS:\n\na) Motivation to study and of labour activity.\n\nb) Moti
+	ves Working Together: Value\, Truth and Control in goal selection and pursu
+	it\nс) Time management (skills and techniques)\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20230404T044948Z
+DTSTAMP:20230414T061220Z
+DTSTART:20230414T180000Z
+DTEND:20230414T180000Z
+CATEGORIES:Psychology | Issakhanova Assel
+END:VEVENT
+BEGIN:VEVENT
+UID:280813@moodle.astanait.edu.kz
+SUMMARY:Practice lesson #2 is due
+DESCRIPTION:Dear students\,  you need to be prepared for all the following 
+	questions.\n\nPRACTICE SESSION TOPICS:\n\n1. Sociological research: definit
+	ion\, functions\, types of sociological research\n\n2. Stages of sociologic
+	al research\n\n3. Research design: definition and functions\n4. Research de
+	sign structure (research question\, object\, purpose\, tasks\, hypothesis o
+	f the study\, interpretation and operationalization basic concepts\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20230326T165448Z
+DTSTAMP:20230414T061220Z
+DTSTART:20230414T180000Z
+DTEND:20230414T180000Z
+CATEGORIES:Sociology  SE| Kusmanova Asem
+END:VEVENT
+BEGIN:VEVENT
+UID:280814@moodle.astanait.edu.kz
+SUMMARY:Sis #1 is due
+DESCRIPTION:This is a team work. Divide into groups (by 5 students) and pre
+	pare a presentation.  You need to give definitions to these social concepti
+	on. Upload the presentation to the moodle. You're not defending the present
+	ation. \n\n1. The Matthew effect\n\n2. Butterfly effect\n\n3. Echo chamber 
+	effect\n\n4. Murphy's law\n\n5. Pygmalion effect\n\n6. The theory of six ha
+	ndshakes\n\n7. Overton window\n\n8. Survivorship bias\n\n_Show in presentat
+	ion:_\n\n1. Definition\n2. Examples of using these conceptions\n\nDON'T FOR
+	GET TO WRITE THE NAMES OF ALL TEAM MEMBERS ON THE FIRST SLIDE OF THE PRESEN
+	TATION.\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20230326T165539Z
+DTSTAMP:20230414T061220Z
+DTSTART:20230414T180000Z
+DTEND:20230414T180000Z
+CATEGORIES:Sociology  SE| Kusmanova Asem
+END:VEVENT
+BEGIN:VEVENT
+UID:296184@moodle.astanait.edu.kz
+SUMMARY:Assignment 2. DDL is due
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20230409T165558Z
+DTSTAMP:20230414T061220Z
+DTSTART:20230416T175900Z
+DTEND:20230416T175900Z
+CATEGORIES:Database Management Systems | Smagulova Gulnur
+END:VEVENT
+BEGIN:VEVENT
+UID:280422@moodle.astanait.edu.kz
+SUMMARY:SIS 3. is due
+DESCRIPTION:DEAR STUDENTS!\n\n In library please take Psychology/G.M. David
+	\, C. Nathan DeWall. - 13 ed. - New York: Macmillan International Higher Ed
+	ucation\, 2021\nDavid C. Ludden JR. Modern Psychology SAGE 2021\, read it c
+	arefully!\n\nRead the article "Developing Psychology". Pay attention to the
+	 main ideas of the authors.\n\n Preparing PRESENTATIONS with the main ideas
+	 of the authors. The in presentation must be minimum 10 slides.\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20230324T103702Z
+DTSTAMP:20230414T061220Z
+DTSTART:20230416T180000Z
+DTEND:20230416T180000Z
+CATEGORIES:Psychology | Issakhanova Assel
+END:VEVENT
+BEGIN:VEVENT
+UID:296222@moodle.astanait.edu.kz
+SUMMARY:Assignment 2 is due
+DESCRIPTION:You need to create classes MyArrayList and MyLinkedList which a
+	re implementations of ArrayList and LinkedList respectively.\n\nYOU ARE NOT
+	 ALLOWED TO USE JAVA.UTIL.ARRAYLIST AND JAVA.UTIL.LINKEDLIST!\n\nBoth of cl
+	asses should implement an interface MyList\n\nMyArrayList:\n\n	* Create a n
+	ew class called MyArrayList that implements the List interface.\n	* Define 
+	a private instance variable of type Object[] to hold the elements of the li
+	st.\n	* Define an int variable called size to keep track of the number of e
+	lements in the list.\n	* Implement the add(E element) method by first check
+	ing if the size of the array is large enough to accommodate the new element
+	. If it is not\, create a new array with double the size of the original ar
+	ray\, copy over the elements from the original array\, and then add the new
+	 element. Otherwise\, simply add the new element to the end of the array an
+	d increment the size variable.\n	* Implement the get(int index) method by r
+	eturning the element at the specified index.\n	* Implement the remove(int i
+	ndex) method by removing the element at the specified index\, shifting all 
+	subsequent elements to the left by one position\, and decrementing the size
+	 variable.\n	* Implement the size() method by returning the size variable.\
+	n	* Implement any other methods specified by the List interface.\n	* Test a
+	ll methods of MyArrayList\n\nMyLinkedList:\n\n	* Create a new class called 
+	MyLinkedList that implements the List interface.\n	* Define a private inner
+	 class called Node that contains an element of type E and references to the
+	 next and previous nodes in the list.\n	* Define a private instance variabl
+	e called head that references the first node in the list.\n	* Define a priv
+	ate instance variable called tail that references the last node in the list
+	.\n	* Define an int variable called size to keep track of the number of ele
+	ments in the list.\n	* Implement the add(E element) method by creating a ne
+	w Node with the specified element\, setting its next reference to null (sin
+	ce it will be the new tail)\, and its previous reference to the current tai
+	l. If the list is empty\, set both the head and tail references to the new 
+	node. Otherwise\, set the next reference of the current tail to the new nod
+	e and update the tail reference to the new node. Finally\, increment the si
+	ze variable.\n	* Implement the get(int index) method by traversing the list
+	 from the head (or tail\, depending on which is closer to the specified ind
+	ex) and returning the element at the specified index.\n	* Implement the rem
+	ove(int index) method by first traversing the list to the node at the speci
+	fied index. Then\, update the next and previous references of the surroundi
+	ng nodes to remove the node from the list\, and decrement the size variable
+	.\n	* Implement the size() method by returning the size variable.\n	* Imple
+	ment any other methods specified by the List interface.\n	* Test all method
+	s of MyLinkedList\n\nTASK EVALUATION:\nThe task at hand involves using GitH
+	ub\, committing more than 10 times\, documenting code\, and a final defense
+	. The evaluation for this task will be based on the following criteria:\n\n
+		*\nGITHUB USAGE (10%): The usage of GitHub will be evaluated based on how 
+	well the user is able to use GitHub for version control.\n\n	*\nCOMMITS (20
+	%): The user will be evaluated based on the number of commits made to the p
+	roject. A minimum of 30 commits is required to receive any points in this c
+	ategory. However\, the quality and relevance of the commits will also be ev
+	aluated. Commits should be made at regular intervals and should reflect sig
+	nificant changes in the code.\n\n	*\nDOCUMENTING CODE (20%): The user will 
+	be evaluated on their ability to document their code. Documentation should 
+	include comments in the code\, a README file\, and any other relevant docum
+	entation. The documentation should be clear\, concise\, and easy to underst
+	and.\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20230413T025830Z
+DTSTAMP:20230414T061220Z
+DTSTART:20230419T175900Z
+DTEND:20230419T175900Z
+CATEGORIES:Algorithms and Data Structures | Khaimuldin Nursultan
+END:VEVENT
+BEGIN:VEVENT
+UID:285460@moodle.astanait.edu.kz
+SUMMARY:Midterm is due
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20230329T004542Z
+DTSTAMP:20230414T061220Z
+DTSTART:20230421T175900Z
+DTEND:20230421T175900Z
+CATEGORIES:History of Kazakhstan | Mamytova Saule
+END:VEVENT
+BEGIN:VEVENT
+UID:280408@moodle.astanait.edu.kz
+SUMMARY:Practice 4. Emotions and emotional intelligence (EQ) is due
+DESCRIPTION:DEAR STUDENTS!\n\n1. You need to choose two of four topics.\n\n
+	2. Prepare a presentation of at least 5 slides\n\n3. To reflect in the pres
+	entation the main questions.\n\n4. You will be given 5 minutes to defend th
+	e presentation during the practice session.\n\n5. Questions after the prese
+	ntation will be asked on all topics of the practice session.\n\nPRACTICE SE
+	SSION TOPICS:\n\na) Expressing emotions and emotions in different cultures.
+	\n\nb) Basic emotions\, positive and negative emotions. \n\nc) Meaning of E
+	Q in contemporary world\nd) The social Power of emotions\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20230414T020119Z
+DTSTAMP:20230414T061220Z
+DTSTART:20230421T180000Z
+DTEND:20230421T180000Z
+CATEGORIES:Psychology | Issakhanova Assel
+END:VEVENT
+BEGIN:VEVENT
+UID:280815@moodle.astanait.edu.kz
+SUMMARY:Practice lesson #3 is due
+DESCRIPTION:Dear students\, .you need to be prepared for all the following 
+	questions.\n\nPRACTICE SESSION TOPICS:\n\n1. Methods of sociological resear
+	ch: survey\, interview\, focus-group\, observation\, experiment.\n\nDefinit
+	ion\, types\, advantages and disadvantages.\n\n2. General population\, samp
+	le population. Types of sampling.\n3.Reliability\, validity\, representativ
+	eness in sociological research\n\n4. Social structure. Social stratificatio
+	n. Definition of concepts. Types of stratification systems.\n\n5. Equality 
+	and Inequality.\n\n6. Open and Closed Society.\n7. Social mobility. Types o
+	f social mobility\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20230326T165703Z
+DTSTAMP:20230414T061220Z
+DTSTART:20230421T180000Z
+DTEND:20230421T180000Z
+CATEGORIES:Sociology  SE| Kusmanova Asem
+END:VEVENT
+BEGIN:VEVENT
+UID:280419@moodle.astanait.edu.kz
+SUMMARY:Midterm is due
+DESCRIPTION:PSYCHOLOGY COURSE RESEARCH DESIGN REQUIREMENTS FOR MID-TERM:\n\
+	nYou need to prepare a detailed research design by choosing any topic (you 
+	can find a list of topics in the SYLLABUS [1]) that you think is important 
+	from a psychological point of view and is suitable for psychological resear
+	ch. While preparing this RECOMMENDATION\, which will constitute your MID-TE
+	RM tasks\, you must strictly adhere to and pay attention to the following p
+	oints.\n\n1. Topic and Relevance. The subject you choose should be clearly 
+	defined and explained. You should provide at least 3 reasons why you chose 
+	this topic.\n\n2. Research question. You should formulate a research proble
+	m in relation to the topic. While doing this\, you should also formulate th
+	e meaning and scope of the problem\, the problem statement and\, if any\, s
+	ub-problems.\n\n3. The goal/purpose of your research.\n\n4. Tasks of the re
+	search.\n\n5. Your main and (if any) sub-hypotheses related to your researc
+	h.\n\n6. Object of the research.\n\n7. Interpretation of the concepts of th
+	e research.\n\n8. And finally\, you should choose the method that you will 
+	use when conducting your research (it can be a psychological test or a surv
+	ey that you will create yourself).\n\nIf you choose the survey method\, the
+	n you need to make at least 10 questions (questions do not include: gender\
+	, age\, name\, etc.).\n\nNOTE: While preparing your Individual project\, it
+	 will be of great benefit to you to print out this text and put it in front
+	 of you and act according to the order here. It will not be possible for th
+	e assignments prepared without following the systematic here to receive hig
+	h grades.\n\nYou must prepare a research proposal of at least 5 and at most
+	 10 pages\, provided that it is written on a computer in accordance with th
+	e above-mentioned conditions. (All assignments should have a cover and cont
+	ain your own information\, page numbers should be added\, pages should be s
+	tapled. 12 points and 1.5 line spacing should be followed in the writing fo
+	rmat\; the grades of those who use large font size or high line spacing wil
+	l be broken in order to increase the number of pages.) Your assignment shou
+	ld be made in the form of a presentation (at least 5 slides) that you will 
+	have to defend for 4 minutes individually.\n\nASSIGNMENTS SHOULD BE GIVEN A
+	T THE PRACTICE SESSIONS (WEEK 5).\n\n\n\nLinks:\n------\n[1] https://moodle
+	.astanait.edu.kz/mod/resource/view.php?id=77761\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20230324T102250Z
+DTSTAMP:20230414T061220Z
+DTSTART:20230427T180000Z
+DTEND:20230427T180000Z
+CATEGORIES:Psychology | Issakhanova Assel
+END:VEVENT
+BEGIN:VEVENT
+UID:280412@moodle.astanait.edu.kz
+SUMMARY:Practice 6. Values\, interests\, norms as the spiritual basis of pe
+	rsonality. is due
+	
+DESCRIPTION:DEAR STUDENTS!\n\n1. You need to choose two of four topics.\n\n
+	2. Prepare a presentation of at least 5 slides\n\n3. To reflect in the pres
+	entation the main questions.\n\n4. You will be given 5 minutes to defend th
+	e presentation during the practice session.\n\n5. Questions after the prese
+	ntation will be asked on all topics of the practice session.\n\nPRACTICE SE
+	SSION TOPICS:\n\na)      Stress and Illness __\n\nb)      Health and coping
+	 strategy __\n\nc)      The concept of "Free will" of the individual in an 
+	independent society.__\nd)   Worldview and national identity of the individ
+	ual.\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20230324T101046Z
+DTSTAMP:20230414T061220Z
+DTSTART:20230428T180000Z
+DTEND:20230428T180000Z
+CATEGORIES:Psychology | Issakhanova Assel
+END:VEVENT
+BEGIN:VEVENT
+UID:280816@moodle.astanait.edu.kz
+SUMMARY:Midterm is due
+DESCRIPTION:Individual work with terms and conceptions.\nEach student answe
+	rs the glossary individually.\n4 questions\, each of them weighs 25 points.
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20230326T165855Z
+DTSTAMP:20230414T061220Z
+DTSTART:20230428T180000Z
+DTEND:20230428T180000Z
+CATEGORIES:Sociology  SE| Kusmanova Asem
+END:VEVENT
+BEGIN:VEVENT
+UID:292515@moodle.astanait.edu.kz
+SUMMARY:Lecture 1-5 is due
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20230404T035914Z
+DTSTAMP:20230414T061220Z
+DTSTART:20230429T180000Z
+DTEND:20230429T180000Z
+CATEGORIES:Psychology | Issakhanova Assel
+END:VEVENT
+BEGIN:VEVENT
+UID:280414@moodle.astanait.edu.kz
+SUMMARY:Practice 7.  Communication is due
+DESCRIPTION:DEAR STUDENTS!\n\n1. You need to choose three of five topics.\n
+	\n2. Prepare a presentation of at least 5 slides\n\n3. To reflect in the pr
+	esentation the main questions.\n\n4. You will be given 5 minutes to defend 
+	the presentation during the practice session.\n\n5. Questions after the pre
+	sentation will be asked on all topics of the practice session.\n\nPRACTICE 
+	SESSION TOPICS:\n\na)      Communication principles\n\nb)      Types of com
+	munication \n\nc)      The relationship between language and meaning \n\nd)
+	      Listening. Types of listening\ne)       Empathy\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20230324T101423Z
+DTSTAMP:20230414T061220Z
+DTSTART:20230505T180000Z
+DTEND:20230505T180000Z
+CATEGORIES:Psychology | Issakhanova Assel
+END:VEVENT
+BEGIN:VEVENT
+UID:280423@moodle.astanait.edu.kz
+SUMMARY:SIS 6. is due
+DESCRIPTION:DEAR STUDENTS!\n\nSelect the video. Watch the video. Pay attent
+	ion to the main ideas of the author. Prepare presentations with the main id
+	eas of the author.\n\nList of videos to watch:\n\na) How to Manipulate Peop
+	le  watch [1]\nb). 8 Signs of a Manipulative Personality \n\nwatch [2]\n\n\
+	n\nLinks:\n------\n[1] https://www.youtube.com/watch?v=je4MjX_6lVY\n[2] htt
+	ps://www.youtube.com/watch?v=1CxH07x83nI\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20230324T105321Z
+DTSTAMP:20230414T061220Z
+DTSTART:20230507T180000Z
+DTEND:20230507T180000Z
+CATEGORIES:Psychology | Issakhanova Assel
+END:VEVENT
+BEGIN:VEVENT
+UID:280415@moodle.astanait.edu.kz
+SUMMARY:Practice 8. Techniques and techniques of effective communication. i
+	s due
+	
+DESCRIPTION:DEAR STUDENTS!\n\n1. You need to choose two of three topics.\n\
+	n2. Prepare a presentation of at least 5 slides\n\n3. To reflect in the pre
+	sentation the main questions.\n\n4. You will be given 5 minutes to defend t
+	he presentation during the practice session.\n\n5. Questions after the pres
+	entation will be asked on all topics of the practice session.\n\nPRACTICE S
+	ESSION TOPICS:\n\na)      Effects of interpersonal perception.\n\nb)      A
+	nalysis of communication in modern society\n\nMandatory task:\n\nc) Make a 
+	video about the topic «Communication» (make your own video or create from r
+	eady-made videos)\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20230324T101717Z
+DTSTAMP:20230414T061220Z
+DTSTART:20230512T180000Z
+DTEND:20230512T180000Z
+CATEGORIES:Psychology | Issakhanova Assel
+END:VEVENT
+BEGIN:VEVENT
+UID:280416@moodle.astanait.edu.kz
+SUMMARY:Practice 9. is due
+DESCRIPTION:DEAR STUDENTS!\n\n1. You need to choose two of three topics.\n\
+	n2. Prepare a presentation of at least 5 slides\n\n3. To reflect in the pre
+	sentation the main questions.\n\n4. You will be given 5 minutes to defend t
+	he presentation during the practice session.\n\n5. Questions after the pres
+	entation will be asked on all topics of the practice session.\n\nPRACTICE S
+	ESSION TOPICS:\n\na)      Conflicts in our lives.\n\nb)      Conflicts betw
+	een minorities and majorities\nc)  Meaning of life conflict\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20230324T101833Z
+DTSTAMP:20230414T061220Z
+DTSTART:20230519T180000Z
+DTEND:20230519T180000Z
+CATEGORIES:Psychology | Issakhanova Assel
+END:VEVENT
+BEGIN:VEVENT
+UID:280425@moodle.astanait.edu.kz
+SUMMARY:SIS 8. is due
+DESCRIPTION:DEAR STUDENTS!\n\nPrepare Response paper. Choose a book. Use th
+	e list of references presented in the from the "List of recommended book". 
+	 Read the book\, state your opinion about it. (minimum 500 words)\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20230324T104829Z
+DTSTAMP:20230414T061220Z
+DTSTART:20230520T180000Z
+DTEND:20230520T180000Z
+CATEGORIES:Psychology | Issakhanova Assel
+END:VEVENT
+BEGIN:VEVENT
+UID:280417@moodle.astanait.edu.kz
+SUMMARY:Endterm is due
+DESCRIPTION:PSYCHOLOGY COURSE RESEARCH DESIGN REQUIREMENTS FOR END-TERM:\n\
+	nYou need a research method on the topic presented earlier\, which\, in you
+	r opinion\, is important from a psychological point of view and is suitable
+	 for psychological research.\n\nWhen preparing this RECOMMENDATION\, which 
+	will make up your final goals\, you should strictly adhere to and pay atten
+	tion to the following points:\n\n1. Choose the following method (it can be 
+	a psychological test on your topic or a survey)\n\n1.a. If you have chosen 
+	a test that you need to pick up a test on your topic and conduct it on 10 p
+	eople of the same age and social status (for example\, first-year students 
+	19-20 years old)\n\n1.b. If you have chosen a survey method that you develo
+	p yourself: your survey should consist of at least 10 (the survey questions
+	 do not include general questions!\, such as name\, age\, gender)\n\n2. Res
+	earch question. You should reflect your question in the research method and
+	 present it in your research.\n\n3. Process the received data.\n\n4. Analyz
+	e and write a conclusion on the received data.\n\n5. Reflect your work in a
+	 word document.\n\n6. create a presentation on your project (or continue th
+	e presentation you created earlier).\n\n7. Interpretation of research conce
+	pts.\n\nNOTE: While preparing your Individual project\, it will be of great
+	 benefit to you to print out this text and put it in front of you and act a
+	ccording to the order here. It will not be possible for the assignments pre
+	pared without following the systematic here to receive high grades.\n\nYou 
+	must prepare a research proposal of at least 5 and at most 10 pages\, provi
+	ded that it is written on a computer in accordance with the above-mentioned
+	 conditions. (All assignments should have a cover and contain your own info
+	rmation\, page numbers should be added\, pages should be stapled. 12 points
+	 and 1.5 line spacing should be followed in the writing format\; the grades
+	 of those who use large font size or high line spacing will be broken in or
+	der to increase the number of pages.) Your assignment should be made in the
+	 form of a presentation (at least 5 slides) that you will have to defend fo
+	r 4 minutes individually.\n\nASSIGNMENTS SHOULD BE GIVEN AT THE PRACTICE SE
+	SSIONS (WEEK 10).\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20230324T102136Z
+DTSTAMP:20230414T061220Z
+DTSTART:20230526T180000Z
+DTEND:20230526T180000Z
+CATEGORIES:Psychology | Issakhanova Assel
+END:VEVENT
+BEGIN:VEVENT
+UID:280426@moodle.astanait.edu.kz
+SUMMARY:SIS 9 is due
+DESCRIPTION:DEAR STUDENTS!\n\nWatch the video. Pay attention to the main id
+	eas of the author: HELPING IN CONTEXT: PREDICTORS AND PRODUCTS OF PROSOCIAL
+	 BEHAVIOR\n\nLara B. Aknin\, Deborah A. Small\, and Mchael I. Norton Prepar
+	e  presentations with the main ideas of the authors.\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20230324T105129Z
+DTSTAMP:20230414T061220Z
+DTSTART:20230527T180000Z
+DTEND:20230527T180000Z
+CATEGORIES:Psychology | Issakhanova Assel
+END:VEVENT
+END:VCALENDAR
